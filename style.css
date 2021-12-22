@@ -552,6 +552,15 @@ small a:hover {
   color: var(--background-color);
 }
 
+.headline {
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.line {
+  margin-top: -20px;
+}
+
 @media (max-width: 991px) {
   .banner .imgSidebar {
     display: none;
